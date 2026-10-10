@@ -1,0 +1,8 @@
+mediapipe
+pycaw
+comtypes
+opencv-contrib-python
+pyqrcode
+png
+pyautogui
+numpy
